@@ -355,6 +355,14 @@ a:visited {
  background-image: url("https://i.imgur.com/FIXCobs.jpg");
 }
 
+#kyle-cover {
+ background-image: url("https://i.imgur.com/AJ13Mkn.jpg");
+}
+
+#kyle-card {
+ background-image: url("https://i.imgur.com/yGudKfk.jpg");
+}
+
 /* TODO: Add your partner's image styles
 
 #firstname-lastname-cover {
